@@ -5,10 +5,6 @@
  [Demo Link](https://simple-code-editor.vercel.app/)
 
 
-Demo Pic:-
-
-![Screenshot (14).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1623157029738/3mp2iHX7Kr.png)
-
 
 ### Features:-
  
